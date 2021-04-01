@@ -1,4 +1,4 @@
-package com.ahmettekin.weatherappkotlin
+package com.ahmettekin.weatherexercise
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

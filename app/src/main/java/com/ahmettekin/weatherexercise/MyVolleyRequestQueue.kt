@@ -1,6 +1,5 @@
-package com.ahmettekin.weatherappkotlin
+package com.ahmettekin.weatherexercise
 
-import android.app.PendingIntent.getActivity
 import android.content.Context
 import com.android.volley.Request
 import com.android.volley.RequestQueue

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WeatherAppKotlin</string>
+    <string name="app_name">WeatherExercise</string>
 
     <string-array name="sehirler">
         <item>Şuanki Yer</item>

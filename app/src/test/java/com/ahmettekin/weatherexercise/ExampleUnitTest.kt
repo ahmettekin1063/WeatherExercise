@@ -1,4 +1,4 @@
-package com.ahmettekin.weatherappkotlin
+package com.ahmettekin.weatherexercise
 
 import org.junit.Test
 
